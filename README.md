@@ -6,7 +6,7 @@ A) Make sure code runs optimally and with the best possible solution. Come up wi
 
 2) From a software development perspective, what steps might you take, on an ongoing basis, to continually improve your skillset? 
 
-A) Learn new technilogies and practice daily so that those can be implemented when there is a need arises.
+A) Learn new technologies and practice daily so that those can be implemented when there is a need arises.
 
 3) Provide an example of a time when you just couldn't complete all of your work on time to meet a deadline. What did you do? What was the result?
 
